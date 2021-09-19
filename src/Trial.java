@@ -1,6 +1,6 @@
 import java.util.*;
 public class Trial{
-
+	public static int iter=0;
 	public static void main(String[] args) {
 		int[][] maze = {
 				{1, 8, 21, 7},
